@@ -1,2 +1,2 @@
-# h1 Preview From Notes App 
-# h2 Using React
+# Preview From Notes App 
+Using React
